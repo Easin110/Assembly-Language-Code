@@ -52,9 +52,6 @@ MAIN PROC
     MOV DL,CH
     INT 21H
     
-    
-    
-    
     MOV AH, 4CH        
     INT 21H
 
