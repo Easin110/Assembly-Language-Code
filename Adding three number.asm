@@ -1,5 +1,5 @@
 .MODEL SMALL
-.STACK 
+.STACK 100H
 .DATA                                                                                                                                                    
   A DB '1st digit: $'
   B DB 10,13,'2nd digit: $'   
