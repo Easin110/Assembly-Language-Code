@@ -24,10 +24,7 @@ MAIN PROC
     ADD BL,32
     MOV DL,BL
     INT 21H
-     
-        
 
-    ; End program
     MOV AH, 4CH        
     INT 21H
 
